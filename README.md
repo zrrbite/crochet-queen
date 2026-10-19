@@ -95,6 +95,9 @@ Recipe types. A folder is added when the first pattern of that type arrives:
 
 - [Granny square](recipes/blankets/granny-square.md): the classic square.
   Beginner. From Maddy Marie.
+- [Mosaic heart](recipes/blankets/mosaic-heart.md): a 26-stitch square with a
+  heart in overlay mosaic crochet, one colour per row, written out row by row
+  with its chart. Intermediate. From Jessie.
 
 ### Clothing
 

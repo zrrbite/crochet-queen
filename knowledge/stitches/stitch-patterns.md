@@ -88,7 +88,8 @@ the first dc. Makes an X.
 
 A sc worked into a stitch one or more rows **below** the current row, with
 the loop pulled up to the current height so the fabric doesn't pucker. In a
-contrast colour it makes a long V. Mosaic crochet is built on this idea.
+contrast colour it makes a long V. Mosaic crochet is built on this idea; see
+[mosaic crochet](../techniques/mosaic-crochet.md).
 
 ## Foundation single crochet
 
