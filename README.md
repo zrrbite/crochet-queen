@@ -16,18 +16,23 @@ knowledge/              how to crochet, independent of any one pattern
   materials/            yarn weights, hook sizes, fibres
 recipes/                patterns, one file each, sorted by type
   TEMPLATE.md           copy this to start a new recipe
-  home/                 coasters, dishcloths, baskets, cushions
+  amigurumi/            the cute ones: stuffed bears, frogs, fruit
+  accessories/          things to wear or carry
+  appliques/            small flat motifs to sew or stick on
+  blankets/             blankets and the squares that make them
+  home/                 things for the house
 ```
 
-Recipe types, added as folders when the first pattern of that type arrives:
+Recipe types. A folder is added when the first pattern of that type arrives:
 
-| Folder        | For                                                  |
-| ------------- | ---------------------------------------------------- |
-| `home/`       | coasters, dishcloths, baskets, cushions, wall hangings |
-| `accessories/`| bags, scarves, hats, headbands, scrunchies           |
-| `clothing/`   | tops, cardigans, socks                               |
-| `toys/`       | amigurumi and other stuffed toys                     |
-| `blankets/`   | blankets, throws, and the squares that make them     |
+| Folder         | For                                                       |
+| -------------- | --------------------------------------------------------- |
+| `amigurumi/`   | stuffed toys and little characters: bears, frogs, fruit   |
+| `accessories/` | hats, bags, scrunchies, scarves, headbands                |
+| `appliques/`   | hearts, flowers, stars: to sew on, or as charms and garlands |
+| `blankets/`    | blankets, throws, and the squares that make them          |
+| `home/`        | coasters, dishcloths, baskets, cushions, wall hangings    |
+| `clothing/`    | tops, cardigans, socks (none yet)                         |
 
 ## Conventions
 

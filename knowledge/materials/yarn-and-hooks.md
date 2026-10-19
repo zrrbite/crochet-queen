@@ -53,6 +53,8 @@ Metric (mm) is unambiguous; US letters are common on US patterns.
 | Acrylic | toys, blankets, practice; cheap, washable  | melts under heat: no trivets or pot holders     |
 | Wool    | hats, garments; warm, blocks beautifully   | felts in a hot wash unless labelled superwash   |
 | Bamboo  | drapey garments, shawls                    | slippery; stitches can stretch out              |
+| Milk cotton | amigurumi, baby items; soft, matte, crisp stitches | usually a cotton–acrylic blend, so not heat-proof |
+| Chenille ("blanket" or velvet yarn) | plush toys, blankets, scrunchies | stitches are hard to see, so count by feel; loose stitches let loops pull out ("worm") |
 
 Blends behave in between.
 

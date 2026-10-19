@@ -29,12 +29,14 @@ the pattern is US. If the smallest stitch it uses is `dc`, it is probably UK.
 | sc         | single crochet                                                |
 | hdc        | half double crochet                                           |
 | dc         | double crochet                                                |
-| tr         | treble crochet                                                |
+| tr         | treble crochet (some patterns say "triple crochet")           |
 | st / sts   | stitch / stitches                                             |
 | R / Rnd    | round (worked in a circle) or row (worked back and forth)    |
 | MR         | magic ring (also: magic circle, magic loop)                   |
 | inc        | increase: 2 sts in the same stitch                            |
 | dec        | decrease: 2 sts worked together into one (e.g. `sc2tog`)      |
+| invdec     | invisible decrease, worked through front loops (amigurumi)    |
+| FO         | fasten off                                                    |
 | yo         | yarn over: wrap the yarn over the hook, back to front         |
 | sk         | skip                                                          |
 | sp         | space, e.g. `ch-2 sp` is the gap under a chain of 2           |
@@ -51,6 +53,7 @@ the pattern is US. If the smallest stitch it uses is `dc`, it is probably UK.
   the same stitch.
 - `— 30 sts` at the end of a round: how many stitches you should have once
   it's done. Count before you join; it's the cheapest place to find a mistake.
+  Many patterns write it in parentheses instead, as `(30)`.
 - `in next st` means the next unworked stitch. `in same st` means the one you
   just worked into.
 - `around` means to the end of the round.
