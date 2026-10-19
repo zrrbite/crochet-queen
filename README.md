@@ -55,6 +55,8 @@ Recipe types. A folder is added when the first pattern of that type arrives:
 - [Waffle the bear](recipes/amigurumi/waffle-the-bear.md): a chubby
   one-piece bear with ears, arms and a muzzle. Easy, a good second
   amigurumi. From Little World of Whimsy.
+- [Leggy frog](recipes/amigurumi/leggy-frog.md): squishy, long-legged, and
+  no sewing. Beginner. From Anita Louise Crochet.
 
 ### Home
 
