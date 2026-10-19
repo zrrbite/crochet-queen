@@ -73,6 +73,9 @@ Recipe types. A folder is added when the first pattern of that type arrives:
 - [Axolotl](recipes/amigurumi/axolotl.md): one piece from nose to tail, with
   chain gills, bobble legs and a surface-crochet fin; nothing sewn.
   Intermediate. From CrochetByGenna.
+- [No-sew dragon](recipes/amigurumi/no-sew-dragon.md): wings, feet, ears
+  and horns crocheted onto a 47-round body in chenille, with a curled tail
+  and spikes. Intermediate, the biggest toy here. From Crochet with Kyra.
 
 ### Accessories
 
