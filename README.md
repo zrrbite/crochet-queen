@@ -60,6 +60,11 @@ Recipe types. A folder is added when the first pattern of that type arrives:
 - [Strawberry](recipes/amigurumi/strawberry.md): a small stuffed berry with
   leaves and seeds; makes a keychain. Beginner. From Crochet with Mai.
 
+### Accessories
+
+- [Bucket hat](recipes/accessories/bucket-hat.md): double crochet, sized by
+  measuring as you go. Beginner. From VivCrochets.
+
 ### Home
 
 - [Flat circle coaster](recipes/home/flat-circle-coaster.md): five rounds
