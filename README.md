@@ -76,6 +76,9 @@ Recipe types. A folder is added when the first pattern of that type arrives:
   measuring as you go. Beginner. From VivCrochets.
 - [Scrunchie](recipes/accessories/scrunchie.md): ruffles crocheted onto a
   hair tie. Beginner. From ElyseCrochets.
+- [Winter Ice shawl](recipes/accessories/winter-ice-shawl.md): a one-skein
+  triangular lace shawl in fingering yarn, where blocking is half the work.
+  Experienced. From Carmen of Annie Design Crochet.
 
 ### Appliques
 
