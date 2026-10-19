@@ -71,6 +71,8 @@ Recipe types. A folder is added when the first pattern of that type arrives:
 
 - [Mini heart](recipes/appliques/mini-heart.md): one round into a magic
   ring. Beginner. From ElyseCrochets.
+- [Simple flower](recipes/appliques/simple-flower.md): five petals of treble
+  crochet. Beginner. From Pora Pora Crochet.
 
 ### Home
 
