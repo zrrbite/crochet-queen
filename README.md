@@ -112,3 +112,6 @@ Recipe types. A folder is added when the first pattern of that type arrives:
 
 - [Flat circle coaster](recipes/home/flat-circle-coaster.md): five rounds
   of double crochet, beginner. From Crochet and Tea.
+- [Flower mandala](recipes/home/flower-mandala.md): 19 rounds, ten petals,
+  many stitch types and a colour change every round. Intermediate. Design by
+  Sanita Brensone, tutorial by Luna Crochet Designs.
