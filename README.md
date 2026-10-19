@@ -45,4 +45,7 @@ Recipe types, added as folders when the first pattern of that type arrives:
 
 ## Recipes
 
-None yet.
+### Home
+
+- [Flat circle coaster](recipes/home/flat-circle-coaster.md): five rounds
+  of double crochet, beginner. From Crochet and Tea.
