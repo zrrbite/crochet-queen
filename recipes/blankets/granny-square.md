@@ -1,5 +1,9 @@
 # Granny square
 
+<a href="https://www.youtube.com/watch?v=euqnRKNJaXo"><img src="https://img.youtube.com/vi/euqnRKNJaXo/maxresdefault.jpg" alt="A lilac granny square held over a ball of yarn" width="480"></a>
+
+*The video's thumbnail; click to watch.*
+
 The classic: clusters of three double crochets worked into the spaces of the
 round below, two clusters in each corner, one in each space along the sides.
 The video stops at four rounds. Keep going for a bigger

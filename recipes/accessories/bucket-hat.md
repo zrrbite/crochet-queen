@@ -1,5 +1,9 @@
 # Bucket hat
 
+<a href="https://www.youtube.com/watch?v=I6m_woyNvZk"><img src="https://img.youtube.com/vi/I6m_woyNvZk/maxresdefault.jpg" alt="A cream crocheted bucket hat, held up and worn" width="480"></a>
+
+*The video's thumbnail; click to watch.*
+
 A simple bucket hat in double crochet: a flat circle for the crown, straight
 rounds for the sides, and a brim that flares out because it increases more
 slowly than the crown did. Every part is sized by measuring as you go, so it

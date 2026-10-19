@@ -1,5 +1,12 @@
 # Pattern name
 
+<a href="https://www.youtube.com/watch?v=VIDEO-ID"><img src="https://img.youtube.com/vi/VIDEO-ID/maxresdefault.jpg" alt="what the picture shows" width="480"></a>
+
+*The video's thumbnail; click to watch.*
+
+(If `maxresdefault.jpg` gives a 404, use `hqdefault.jpg`. Once one of ours is
+made, a photo of it can take the thumbnail's place.)
+
 One or two sentences: what it is, how it's constructed, what it's for.
 
 |              |                                                      |

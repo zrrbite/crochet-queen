@@ -1,5 +1,9 @@
 # Flat circle coaster
 
+<a href="https://www.youtube.com/watch?v=vItcjc8nJ9o"><img src="https://img.youtube.com/vi/vItcjc8nJ9o/hqdefault.jpg" alt="A mustard-yellow crocheted flat circle coaster" width="480"></a>
+
+*The video's thumbnail; click to watch.*
+
 A solid, flat disc of double crochet in five joined rounds. Thick chunky yarn
 on a small hook makes it dense enough to sit a mug on. A good first project in
 the round: it builds up fast, and the designer made four or five in one

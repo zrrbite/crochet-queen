@@ -1,5 +1,9 @@
 # Mini heart
 
+<a href="https://www.youtube.com/watch?v=zJU2s-gfBYo"><img src="https://img.youtube.com/vi/zJU2s-gfBYo/maxresdefault.jpg" alt="Small crocheted hearts in shades of pink" width="480"></a>
+
+*The video's thumbnail; click to watch.*
+
 A small flat heart worked entirely into one magic ring. Tall stitches on the
 two sides make the top bumps, one treble makes the point, and pulling the
 ring shut draws it all into a heart. One round, a few minutes. Use it as a

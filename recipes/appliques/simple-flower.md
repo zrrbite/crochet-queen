@@ -1,5 +1,9 @@
 # Simple flower
 
+<a href="https://www.youtube.com/watch?v=-Oygt5TJ7dE"><img src="https://img.youtube.com/vi/-Oygt5TJ7dE/maxresdefault.jpg" alt="A turquoise five-petal crocheted flower" width="480"></a>
+
+*The video's thumbnail; click to watch.*
+
 A flat five-petal flower worked in one round into a chain ring, each petal
 a little fan of treble crochets. It leaves an open centre you can fill with a
 button, a bead or a French knot. Sew it onto a hat, a bag, a granny square

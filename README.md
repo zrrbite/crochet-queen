@@ -47,6 +47,10 @@ Recipe types. A folder is added when the first pattern of that type arrives:
   or page it came from. The wording here is ours; the design is theirs.
 - **Mark anything not taken from the source**, such as an estimated size, so
   it isn't mistaken for the designer's numbers.
+- **Every recipe opens with a preview image.** It's the source video's own
+  thumbnail, loaded from YouTube and linking to the video, so nothing of the
+  designer's is copied into this repo. When one of ours gets made, a photo of
+  it can take the thumbnail's place.
 
 ## Recipes
 

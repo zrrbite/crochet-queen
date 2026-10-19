@@ -1,5 +1,9 @@
 # Scrunchie
 
+<a href="https://www.youtube.com/watch?v=gqnsfQVtAH4"><img src="https://img.youtube.com/vi/gqnsfQVtAH4/maxresdefault.jpg" alt="Pink and cream crocheted scrunchies, one worn on a wrist" width="480"></a>
+
+*The video's thumbnail; click to watch.*
+
 A ruffled scrunchie crocheted straight onto an ordinary elastic hair tie:
 one round of single crochet hides the elastic, two rounds of double crochet
 make the ruffle, and an optional single-crochet round in a second colour

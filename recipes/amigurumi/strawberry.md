@@ -1,5 +1,9 @@
 # Strawberry
 
+<a href="https://www.youtube.com/watch?v=cbPAzQd-LZE"><img src="https://img.youtube.com/vi/cbPAzQd-LZE/maxresdefault.jpg" alt="Three crocheted strawberries in red and pink with green leaves" width="480"></a>
+
+*The video's thumbnail; click to watch.*
+
 A small stuffed strawberry: a red berry worked from the tip up in eleven
 rounds, a green star of leaves sewn on top, and white seeds stitched on.
 About ten minutes of crochet once you know the stitches. Makes a nice

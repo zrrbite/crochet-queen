@@ -1,5 +1,9 @@
 # Leggy frog (no sew)
 
+<a href="https://www.youtube.com/watch?v=IM2LK_vEgcA"><img src="https://img.youtube.com/vi/IM2LK_vEgcA/maxresdefault.jpg" alt="A lime-green crocheted frog with long dangling legs" width="480"></a>
+
+*The video's thumbnail; click to watch.*
+
 A squishy frog in chunky blanket yarn with long dangly arms and legs, each
 ending in three little loop fingers. The limbs are crocheted straight off the
 body as you go, and the bottom is crocheted shut, so there's nothing to sew.

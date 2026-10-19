@@ -1,5 +1,9 @@
 # Waffle the bear
 
+<a href="https://www.youtube.com/watch?v=z8l630vFgbE"><img src="https://img.youtube.com/vi/z8l630vFgbE/maxresdefault.jpg" alt="Waffle, a light brown crocheted bear with a white muzzle" width="480"></a>
+
+*The video's thumbnail; click to watch.*
+
 A chubby little bear whose head and body are one oval piece, worked in a
 spiral and stuffed. Add two ears, two arms and a white muzzle, then
 embroider a nose. Only four small parts to sew on, so it makes a good
