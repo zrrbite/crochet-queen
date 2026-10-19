@@ -74,6 +74,11 @@ Recipe types. A folder is added when the first pattern of that type arrives:
 - [Simple flower](recipes/appliques/simple-flower.md): five petals of treble
   crochet. Beginner. From Pora Pora Crochet.
 
+### Blankets
+
+- [Granny square](recipes/blankets/granny-square.md): the classic square.
+  Beginner. From Maddy Marie.
+
 ### Home
 
 - [Flat circle coaster](recipes/home/flat-circle-coaster.md): five rounds
