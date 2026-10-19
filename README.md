@@ -107,6 +107,9 @@ Recipe types. A folder is added when the first pattern of that type arrives:
 - [Savannah cardi](recipes/clothing/savannah-cardi.md): a cropped open-front
   cardigan in Tunisian crochet's arrowhead lace, nine sizes, seamed from five
   flat pieces. Intermediate. From Toni Lipsey of TL Yarn Crafts.
+- [Granny hexagon cardigan](recipes/clothing/granny-hexagon-cardigan.md):
+  two big granny hexagons, folded and joined as you go, sized by measuring
+  against yourself. Intermediate. From PassioKnit Kelsie.
 
 ### Home
 
