@@ -101,6 +101,9 @@ Recipe types. A folder is added when the first pattern of that type arrives:
 - [Two-tone raglan sweater](recipes/clothing/raglan-sweater.md): a top-down
   raglan in plain dc, sized by trying it on, with post-stitch ribbing at the
   collar, cuffs and hem. Intermediate. From VivCrochets.
+- [Savannah cardi](recipes/clothing/savannah-cardi.md): a cropped open-front
+  cardigan in Tunisian crochet's arrowhead lace, nine sizes, seamed from five
+  flat pieces. Intermediate. From Toni Lipsey of TL Yarn Crafts.
 
 ### Home
 
