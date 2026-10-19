@@ -69,6 +69,9 @@ Recipe types. A folder is added when the first pattern of that type arrives:
   no sewing. Beginner. From Anita Louise Crochet.
 - [Strawberry](recipes/amigurumi/strawberry.md): a small stuffed berry with
   leaves and seeds; makes a keychain. Beginner. From Crochet with Mai.
+- [Axolotl](recipes/amigurumi/axolotl.md): one piece from nose to tail, with
+  chain gills, bobble legs and a surface-crochet fin; nothing sewn.
+  Intermediate. From CrochetByGenna.
 
 ### Accessories
 
