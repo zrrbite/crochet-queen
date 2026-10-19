@@ -64,6 +64,8 @@ Recipe types. A folder is added when the first pattern of that type arrives:
 
 - [Bucket hat](recipes/accessories/bucket-hat.md): double crochet, sized by
   measuring as you go. Beginner. From VivCrochets.
+- [Scrunchie](recipes/accessories/scrunchie.md): ruffles crocheted onto a
+  hair tie. Beginner. From ElyseCrochets.
 
 ### Home
 
