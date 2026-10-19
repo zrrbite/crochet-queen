@@ -67,6 +67,11 @@ Recipe types. A folder is added when the first pattern of that type arrives:
 - [Scrunchie](recipes/accessories/scrunchie.md): ruffles crocheted onto a
   hair tie. Beginner. From ElyseCrochets.
 
+### Appliques
+
+- [Mini heart](recipes/appliques/mini-heart.md): one round into a magic
+  ring. Beginner. From ElyseCrochets.
+
 ### Home
 
 - [Flat circle coaster](recipes/home/flat-circle-coaster.md): five rounds
