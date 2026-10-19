@@ -21,7 +21,13 @@ recipes/                patterns, one file each, sorted by type
   appliques/            small flat motifs to sew or stick on
   blankets/             blankets and the squares that make them
   home/                 things for the house
+videos.md               every video used or considered, tagged for searching
 ```
+
+Looking for the next project? [videos.md](videos.md) lists every video a
+recipe came from and the other candidates found along the way, each tagged
+with type, level, yarn and whether a free written pattern exists, so you can
+search it for "no-sew" or "intermediate" or "fingering".
 
 Recipe types. A folder is added when the first pattern of that type arrives:
 
