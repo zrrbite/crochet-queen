@@ -20,6 +20,7 @@ recipes/                patterns, one file each, sorted by type
   accessories/          things to wear or carry
   appliques/            small flat motifs to sew or stick on
   blankets/             blankets and the squares that make them
+  clothing/             sweaters and cardigans
   home/                 things for the house
 videos.md               every video used or considered, tagged for searching
 ```
@@ -38,7 +39,7 @@ Recipe types. A folder is added when the first pattern of that type arrives:
 | `appliques/`   | hearts, flowers, stars: to sew on, or as charms and garlands |
 | `blankets/`    | blankets, throws, and the squares that make them          |
 | `home/`        | coasters, dishcloths, baskets, cushions, wall hangings    |
-| `clothing/`    | tops, cardigans, socks (none yet)                         |
+| `clothing/`    | sweaters, cardigans, tops                                 |
 
 ## Conventions
 
@@ -94,6 +95,12 @@ Recipe types. A folder is added when the first pattern of that type arrives:
 
 - [Granny square](recipes/blankets/granny-square.md): the classic square.
   Beginner. From Maddy Marie.
+
+### Clothing
+
+- [Two-tone raglan sweater](recipes/clothing/raglan-sweater.md): a top-down
+  raglan in plain dc, sized by trying it on, with post-stitch ribbing at the
+  collar, cuffs and hem. Intermediate. From VivCrochets.
 
 ### Home
 
