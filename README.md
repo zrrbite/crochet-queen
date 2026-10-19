@@ -57,6 +57,8 @@ Recipe types. A folder is added when the first pattern of that type arrives:
   amigurumi. From Little World of Whimsy.
 - [Leggy frog](recipes/amigurumi/leggy-frog.md): squishy, long-legged, and
   no sewing. Beginner. From Anita Louise Crochet.
+- [Strawberry](recipes/amigurumi/strawberry.md): a small stuffed berry with
+  leaves and seeds; makes a keychain. Beginner. From Crochet with Mai.
 
 ### Home
 
