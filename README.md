@@ -50,6 +50,12 @@ Recipe types. A folder is added when the first pattern of that type arrives:
 
 ## Recipes
 
+### Amigurumi
+
+- [Waffle the bear](recipes/amigurumi/waffle-the-bear.md): a chubby
+  one-piece bear with ears, arms and a muzzle. Easy, a good second
+  amigurumi. From Little World of Whimsy.
+
 ### Home
 
 - [Flat circle coaster](recipes/home/flat-circle-coaster.md): five rounds
